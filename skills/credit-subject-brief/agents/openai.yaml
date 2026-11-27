@@ -1,0 +1,4 @@
+interface:
+  display_name: "信用主体分析速写"
+  short_description: "依据评级报告和募集说明书核验主体与财务数据，生成股权、经营、财务三段式信用分析"
+  default_prompt: "使用 $credit-subject-brief，根据我上传的资料，为我指定的企业撰写三段式信用主体分析，仔细核对主体、年份、科目与数据口径。"
